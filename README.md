@@ -47,7 +47,7 @@ CREATE TABLE turkeys (
 
 ```sh
     private $host = "localhost";
-    private $db_name = "api_brave_us";
+    private $db_name = "turkey_challenge";
     private $username = "your_user";
     private $password = "your_password";
 
