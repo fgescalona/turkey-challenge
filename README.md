@@ -31,6 +31,8 @@ mysql -u root -p
 
 CREATE DATABASE turkey_challenge;
 
+USE DATABASE turkey_challenge;
+
 CREATE TABLE turkeys (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
