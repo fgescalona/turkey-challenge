@@ -21,7 +21,7 @@ Follow these steps to set up the project on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/turkey-challenge.git
+git clone https://github.com/fgescalona/turkey-challenge
 cd turkey-challenge
 ```
 
